@@ -3,6 +3,6 @@
 Olá ! Bem vindo ao livro de receitas :wave:
 
 - Strogonoff de frango
-- Pavê
+- Torta de maça
 - Torta de morango
 
